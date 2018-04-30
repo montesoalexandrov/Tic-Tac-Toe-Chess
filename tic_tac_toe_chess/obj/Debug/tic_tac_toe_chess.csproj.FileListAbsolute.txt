@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\bin\Debug\tic_tac_toe_chess.exe.config
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\bin\Debug\tic_tac_toe_chess.exe
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\bin\Debug\tic_tac_toe_chess.pdb
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\obj\Debug\tic_tac_toe_chess.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\obj\Debug\tic_tac_toe_chess.Form1.resources
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\obj\Debug\tic_tac_toe_chess.Properties.Resources.resources
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\obj\Debug\tic_tac_toe_chess.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\obj\Debug\tic_tac_toe_chess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\obj\Debug\tic_tac_toe_chess.exe
+C:\Users\User\source\repos\tic_tac_toe_chess\tic_tac_toe_chess\obj\Debug\tic_tac_toe_chess.pdb
